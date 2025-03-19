@@ -21,7 +21,7 @@ repository               : "Plusone-Shen/Plusone-Shen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "self-image.png"
+  avatar           : "self-image.png"
   name             : "Jiayi Shen"
   pronouns         : # example: "she/her"  
   bio              : "undergraduate at USTC"
