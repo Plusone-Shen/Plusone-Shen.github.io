@@ -12,7 +12,7 @@ redirect_from:
 Bio
 =====
 
-Jiayi Shen is currently an undergraduate student at the USTC School of Finance, majoring in finance and minoring in finance. Her interest lies in:
+Jiayi Shen is currently an undergraduate student at the USTC School of Management, majoring in finance and minoring in finance. Her interest lies in:
 
 - Algorithm
 - Machine learning
