@@ -12,11 +12,13 @@ redirect_from:
 Bio
 =====
 
-Jiayi Shen is currently an undergraduate student at the USTC School of Management, majoring in finance and minoring in finance. Her interest lies in:
+Jiayi Shen is currently an undergraduate student at the USTC School of Management, majoring in finance and minoring in computer science. Her interest lies in:
 
-- Algorithm
-- Machine learning
-- Game theory
+- eValue
+
+- Finance
+
+- Natural Language Processing
 
 Currently she is working on Application and Innovation of e-value Method in Economic Research: Multiple Hypothesis Testing and Policy Evaluation, under the guidance of professor [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85).
 
