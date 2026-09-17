@@ -15,9 +15,9 @@ redirect_from:
   <p class="section-summary">My background.</p>
 </header>
 
-I am a Ph.D. student in the **Data Science and Analytics Thrust** at the Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Tianyuan Jin](https://tianyuanjin.github.io/).
+I am a Ph.D. student in the Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Tianyuan Jin](https://tianyuanjin.github.io/).
 
-I received my bachelor's degree in Finance from the School of Management at the **University of Science and Technology of China (USTC)** in July 2026. During my undergraduate studies, I was advised by Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85), and my research focused on e-values, multiple testing, and sequential inference.
+I received my bachelor's degree in Finance from the School of Management at the University of Science and Technology of China (USTC) in July 2026. During my undergraduate studies, I was advised by Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85), and my research focused on e-values, multiple testing, and sequential inference.
 
 <a class="text-link" href="#contact">Get in touch</a>
 </section>
