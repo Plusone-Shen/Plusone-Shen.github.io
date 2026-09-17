@@ -61,13 +61,13 @@ button { font: inherit; }
 .profile-name { margin: 0; font: 750 25px/1.2 var(--sans); letter-spacing: -.03em; }
 .profile-role { margin: 9px 0 0; color: var(--muted); font-size: 14px; line-height: 1.6; }
 .profile-facts { padding: 16px 0; margin: 0; border-bottom: 1px solid var(--line); }
-.profile-facts div { display: grid; grid-template-columns: 65px 1fr; gap: 10px; margin: 7px 0; font-size: 12px; line-height: 1.6; }
-.profile-facts dt { font-family: var(--sans); color: var(--muted); }
+.profile-facts div { display: grid; grid-template-columns: 91px minmax(0, 1fr); gap: 8px; margin: 7px 0; font-size: 12px; line-height: 1.6; }
+.profile-facts dt { display: flex; align-items: center; gap: 8px; font-family: var(--sans); color: var(--muted); }
 .profile-facts dd { margin: 0; color: var(--soft); }
 .profile-links { list-style: none; padding: 12px 0 0; margin: 0; }
 .profile-links a { display: flex; align-items: center; gap: 10px; padding: 8px 0; color: var(--soft); font: 600 12px/1.5 var(--sans); text-decoration: none; }
 .profile-links a:hover { color: var(--accent); }
-.profile-links a > span { width: 18px; text-align: center; font-size: 17px; color: var(--accent); }
+.profile-icon { display: block; width: 18px; height: 18px; flex: 0 0 18px; fill: currentColor; color: var(--accent); }
 .profile-links small { font-size: 9px; color: var(--muted); }
 main { min-width: 0; padding: 0 36px 65px; border-inline: 1px solid var(--line); }
 .page-section { margin-top: 58px; }
@@ -137,6 +137,8 @@ p { margin: 0 0 18px; }
   .profile-name { font-size: 25px; }
   .profile-role { font-size: 13px; margin-top: 6px; }
   .profile-facts { grid-column: 2; padding: 5px 0 0; border-bottom: 0; }
+  .profile-facts div { grid-template-columns: 1fr; gap: 2px; margin: 8px 0; }
+  .profile-facts dd { padding-left: 26px; }
   .profile-links { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 0 21px; padding: 13px 0 0; }
   main { border: 0; border-top: 1px solid var(--line); padding: 30px 0 45px; }
   .page-section { margin-top: 44px; }
