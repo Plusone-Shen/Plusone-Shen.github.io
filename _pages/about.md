@@ -16,7 +16,7 @@ Feel free to contact me at [plusoneshen@gmail.com](mailto:plusoneshen@gmail.com)
 
 ---
 
-# Research Interests
+## Research Interests
 
 My research interests broadly lie in:
 
@@ -32,10 +32,10 @@ My research interests broadly lie in:
 - **Sequential Decision-Making**
   - Multi-Armed Bandits
   - Reinforcement Learning
-  
+
 ---
 
-# Education
+## Education
 
 **Hong Kong University of Science and Technology (Guangzhou)**
 Ph.D. Student in Data Science and Analytics Thrust
@@ -49,7 +49,7 @@ Advisor: Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85)
 
 ---
 
-# Teaching
+## Teaching
 
 **Teaching Assistant — Stochastic Process A**
 University of Science and Technology of China
@@ -59,11 +59,8 @@ University of Science and Technology of China
 
 ---
 
-# Curriculum Vitae
+## Curriculum Vitae
 
 My full CV is available here:
 
 [**View / Download CV (PDF)**](/files/CV_Shen_Jiayi.pdf)
-
----
-
