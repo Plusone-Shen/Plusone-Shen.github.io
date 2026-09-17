@@ -19,7 +19,7 @@ I am a Ph.D. student in the **Data Science and Analytics Thrust** at the Hong Ko
 
 I received my bachelor's degree in Finance from the School of Management at the **University of Science and Technology of China (USTC)** in July 2026. During my undergraduate studies, I was advised by Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85), and my research focused on e-values, multiple testing, and sequential inference.
 
-<a class="text-link" href="#contact">Get in touch <span aria-hidden="true">↗</span></a>
+<a class="text-link" href="#contact">Get in touch</a>
 </section>
 
 <section class="page-section" id="research" aria-labelledby="research-heading">
@@ -55,8 +55,8 @@ I received my bachelor's degree in Finance from the School of Management at the 
 <section class="page-section contact-section" id="contact" aria-labelledby="contact-heading">
   <header class="section-heading"><h2 id="contact-heading">Get in Touch</h2><p class="section-summary">Feel free to contact me.</p></header>
   <div class="contact-links">
-    <a href="mailto:plusoneshen@gmail.com"><span class="eyebrow">Personal Email</span><span>plusoneshen@gmail.com ↗</span></a>
-    <a href="mailto:jshen698@connect.hkust-gz.edu.cn"><span class="eyebrow">University Email</span><span>jshen698@connect.hkust-gz.edu.cn ↗</span></a>
+    <a href="mailto:plusoneshen@gmail.com"><span class="contact-label">Personal email</span><span>plusoneshen@gmail.com</span></a>
+    <a href="mailto:jshen698@connect.hkust-gz.edu.cn"><span class="contact-label">University email</span><span>jshen698@connect.hkust-gz.edu.cn</span></a>
   </div>
-  <a class="cv-link" href="{{ '/files/CV_Shen_Jiayi.pdf' | relative_url }}">View / Download CV <span>PDF ↗</span></a>
+  <a class="cv-link" href="{{ '/files/CV_Shen_Jiayi.pdf' | relative_url }}">View / Download CV <span>PDF</span></a>
 </section>
