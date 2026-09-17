@@ -1,0 +1,38 @@
+profile:
+  summary: "My background."
+  paragraphs:
+    - "I am a Ph.D. student in the Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Tianyuan Jin](https://tianyuanjin.github.io/)."
+    - "I received my bachelor's degree in Finance from the School of Management at the University of Science and Technology of China (USTC) in July 2026. During my undergraduate studies, I was advised by [Prof. Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85), and my research focused on e-values, multiple testing, and sequential inference."
+metrics: []
+news:
+  - date: "2026"
+    text: "I joined the Data Science and Analytics Thrust at HKUST (Guangzhou) as a Ph.D. student, advised by Prof. Tianyuan Jin."
+  - date: "Jul 2026"
+    text: "I received my bachelor's degree in Finance from the University of Science and Technology of China."
+selected_publications: []
+research:
+  summary: "My research interests lie in statistical inference, online learning, and sequential decision-making."
+  tags:
+    - "Statistical Inference"
+    - "Online Learning"
+    - "Adaptive Algorithms"
+    - "Multi-Armed Bandits"
+    - "Reinforcement Learning"
+  areas:
+    - title: "Statistical Inference"
+      detail: "E-values, sequential statistical inference, and high-dimensional statistical inference."
+    - title: "Online Learning and Adaptive Algorithms"
+      detail: "Online learning and adaptive algorithms."
+    - title: "Sequential Decision-Making"
+      detail: "Multi-armed bandits and reinforcement learning."
+education:
+  - period: "2026 – Present"
+    title: "Hong Kong University of Science and Technology (Guangzhou)"
+    subtitle: "Ph.D. Student · Data Science and Analytics Thrust"
+    detail: "Advisor: [Prof. Tianyuan Jin](https://tianyuanjin.github.io/)"
+  - period: "2021 – 2026"
+    title: "University of Science and Technology of China"
+    subtitle: "Bachelor's Degree in Finance · School of Management"
+    detail: "Advisor: [Prof. Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85)"
+service: []
+teaching_summary: "I have served as a teaching assistant for Stochastic Process A and Stochastic Process B at the University of Science and Technology of China."

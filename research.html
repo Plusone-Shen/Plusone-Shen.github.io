@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Research"
+nav: "Research"
+permalink: /research/
+description: "Research interests of Jiayi Shen: statistical inference, online learning, and sequential decision-making."
+---
+<section class="page-section page-section--first">
+  {% include section-heading.html level=1 title="Research" summary=site.data.home.research.summary %}
+  {% for area in site.data.home.research.areas %}
+    <section class="page-section">
+      {% include section-heading.html title=area.title %}
+      <p class="prose">{{ area.detail }}</p>
+    </section>
+  {% endfor %}
+</section>

@@ -1,0 +1,48 @@
+<article class="publication">
+  {% assign citation = site.data.publication_citations.papers[include.paper.id] %}
+  <span class="publication__number" aria-hidden="true"></span>
+  <div class="publication__body">
+    <h3 class="publication__title">{{ include.paper.title }}</h3>
+
+    <p class="publication__authors">
+      {% for author in include.paper.authors %}{% if author.me %}<strong>{{ author.name }}</strong>{% else %}{{ author.name }}{% endif %}{% if author.equal %}<sup>*</sup>{% endif %}{% if author.mentored %}<sup title="Mentored student">†</sup>{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+    </p>
+
+    <div class="publication__details">
+      <div>
+        <p class="publication__venue">{{ include.paper.venue }}</p>
+        {% if include.extended %}
+          <p class="publication__metadata">
+            {% if include.paper.publication_date %}<span>Published <time{% if include.paper.publication_date_iso %} datetime="{{ include.paper.publication_date_iso }}"{% endif %}>{{ include.paper.publication_date }}</time></span>{% endif %}
+            {% if include.paper.doi %}<a href="https://doi.org/{{ include.paper.doi }}" target="_blank" rel="noopener noreferrer">DOI {{ include.paper.doi }}</a>{% endif %}
+            {% if citation.url %}<a href="{{ citation.url }}" target="_blank" rel="noopener noreferrer">Cited by {{ citation.citations }}</a>{% endif %}
+          </p>
+        {% endif %}
+      </div>
+      {% if include.paper.links %}
+        <p class="publication__links" aria-label="Links for {{ include.paper.title }}">
+          {% for link in include.paper.links %}
+            {% if link.url %}
+              <a class="tag tag--{{ link.type }}" href="{{ link.url | relative_url }}"{% if link.url contains '://' %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ link.label }}</a>
+            {% else %}
+              <span class="tag tag--{{ link.type }}">{{ link.label }}</span>
+            {% endif %}
+          {% endfor %}
+        </p>
+      {% endif %}
+    </div>
+
+    {% if include.extended %}
+      {% if include.paper.abstract or include.paper.abstract_status %}
+        <details class="publication__abstract">
+          <summary>Abstract</summary>
+          {% if include.paper.abstract %}
+            {{ include.paper.abstract | markdownify }}
+          {% else %}
+            <p>{{ include.paper.abstract_status }}</p>
+          {% endif %}
+        </details>
+      {% endif %}
+    {% endif %}
+  </div>
+</article>
