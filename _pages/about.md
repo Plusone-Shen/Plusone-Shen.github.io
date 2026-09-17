@@ -1,14 +1,11 @@
 ---
 permalink: /
-# title: " About Me"
+title: " About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-# About Me
 
 I am a Ph.D. student in the Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Tianyuan Jin](https://tianyuanjin.github.io/).
 
