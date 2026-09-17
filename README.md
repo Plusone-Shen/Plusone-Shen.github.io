@@ -12,7 +12,7 @@ This site uses [Qirun Zeng's complete Jekyll template](https://github.com/qirunz
 - `assets/css/main.css`: original template stylesheet.
 - `assets/css/custom.css`: Source Serif 4 and small personal style adjustments.
 
-Home, research, teaching, news and the 404 page share the upstream layout and components. The bandit demonstration is retained. No publications, citation metrics, or reviewing roles are displayed without personal records. The original author's Scholar automation is not enabled.
+Home, news and the 404 page share the upstream layout and components. Research and teaching are sections on the homepage; navigation links scroll directly to them. The former standalone URLs redirect to the corresponding homepage sections. The bandit demonstration is retained. No publications, citation metrics, or reviewing roles are displayed without personal records. The original author's Scholar automation is not enabled.
 
 ## Preview
 

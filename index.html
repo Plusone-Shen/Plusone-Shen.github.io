@@ -38,12 +38,15 @@ context_rail: news
 
 {% include news.html variant="inline" %}
 
-<section class="page-section" aria-labelledby="research-heading">
-  {% include section-heading.html id="research" title="Research Focus" %}
-  <p class="prose">{{ home.research.summary }}</p>
-  <ul class="research-topics" aria-label="Research topics">
-    {% for topic in home.research.tags %}<li>{{ topic }}</li>{% endfor %}
-  </ul>
+<section class="page-section" id="research" aria-labelledby="research-heading">
+  <header class="section-heading section-heading--page">
+    <h2 id="research-heading">Research</h2>
+  </header>
+  <div class="research-areas">
+    {% for area in home.research.areas %}
+      <article class="research-area"><h3>{{ area.title }}</h3><p>{{ area.detail }}</p></article>
+    {% endfor %}
+  </div>
 </section>
 
 <section class="page-section" aria-labelledby="bandit-heading">
@@ -91,10 +94,14 @@ context_rail: news
   </div>
 </section>
 
-<section class="page-section" aria-labelledby="teaching-heading">
+<section class="page-section" id="teaching" aria-labelledby="teaching-heading">
   {% include section-heading.html title="Teaching" %}
   <p class="prose">{{ home.teaching_summary }}</p>
-  <p class="section-action"><a href="{{ '/teaching/' | relative_url }}">View teaching experience <span aria-hidden="true">→</span></a></p>
+  <div class="teaching-list">
+    {% for item in site.data.teaching %}
+      {% include teaching-item.html item=item %}
+    {% endfor %}
+  </div>
 </section>
 
 <section class="page-section" aria-labelledby="contact-heading">
