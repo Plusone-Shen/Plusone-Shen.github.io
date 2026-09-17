@@ -18,14 +18,21 @@ Feel free to contact me at [plusoneshen@gmail.com](mailto:plusoneshen@gmail.com)
 
 # Research Interests
 
-My research interests broadly lie in statistical inference and sequential decision-making, including:
+My research interests broadly lie in:
 
-* E-values and Sequential Statistical Inference
-* High-dimensional Statistical Inference
-* Online Learning and Adaptive Algorithms
-* Bandits and Reinforcement Learning
-* Large Language Models and Foundation Models
+- **Statistical Inference**
+  - E-values
+  - Sequential Statistical Inference
+  - High-dimensional Statistical Inference
 
+- **Online Learning and Adaptive Algorithms**
+  - Online Learning
+  - Adaptive Algorithms
+
+- **Sequential Decision-Making**
+  - Multi-Armed Bandits
+  - Reinforcement Learning
+  
 ---
 
 # Education
@@ -39,15 +46,6 @@ Advisor: Prof. [Tianyuan Jin](https://tianyuanjin.github.io/)
 Bachelor's Degree in Finance, School of Management
 2021 – 2026
 Advisor: Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85)
-
----
-
-# Research Experience
-
-**Undergraduate Research Program, USTC**
-Advisor: Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85)
-
-*Improved E-Value Thresholds under Lipschitz Constraints with Applications to FDR Control and Sequential Testing*
 
 ---
 
