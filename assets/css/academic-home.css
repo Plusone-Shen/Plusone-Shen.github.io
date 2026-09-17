@@ -132,6 +132,9 @@ p { margin: 0 0 18px; }
 .rail-note small { font-size: .7rem; color: var(--muted); font-weight: 500; }
 .site-footer { display: flex; justify-content: space-between; gap: 20px; padding: 24px 0; border-top: 1px solid var(--line); color: var(--muted); font: 11px/1.6 var(--font); }
 .site-footer a { color: var(--muted); text-decoration: none; }
+.footer-credits { display: grid; gap: 4px; }
+.footer-credits a { text-decoration: underline; }
+.footer-top { flex-shrink: 0; }
 @media (min-width: 1500px) { .site-shell { gap: 44px; } main { padding-inline: 44px; } }
 @media (max-width: 1150px) {
   .site-shell { grid-template-columns: 205px minmax(0, 1fr); gap: 30px; }
