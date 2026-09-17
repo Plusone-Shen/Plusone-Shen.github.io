@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## About Me
+# About Me
 
 I am a Ph.D. student in the Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Tianyuan Jin](https://tianyuanjin.github.io/).
 
@@ -16,11 +16,10 @@ I received my bachelor's degree in Finance from the School of Management at the 
 
 Feel free to contact me at [plusoneshen@gmail.com](mailto:plusoneshen@gmail.com) or [jshen698@connect.hkust-gz.edu.cn](mailto:jshen698@connect.hkust-gz.edu.cn).
 
-[**Curriculum Vitae**](/files/CV_Shen_Jiayi.pdf)
 
 ---
 
-## Research Interests
+# Research Interests
 
 My research interests broadly lie in statistical inference and sequential decision-making, including:
 
@@ -32,7 +31,7 @@ My research interests broadly lie in statistical inference and sequential decisi
 
 ---
 
-## Education
+# Education
 
 **Hong Kong University of Science and Technology (Guangzhou)**
 Ph.D. Student in Data Science and Analytics Thrust
@@ -46,7 +45,7 @@ Advisor: Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85)
 
 ---
 
-## Research Experience
+# Research Experience
 
 **Undergraduate Research Program, USTC**
 Advisor: Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85)
@@ -55,7 +54,7 @@ Advisor: Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85)
 
 ---
 
-## Teaching
+# Teaching
 
 **Teaching Assistant — Stochastic Process A**
 University of Science and Technology of China
@@ -65,7 +64,7 @@ University of Science and Technology of China
 
 ---
 
-## Curriculum Vitae
+# Curriculum Vitae
 
 My full CV is available here:
 
@@ -73,10 +72,3 @@ My full CV is available here:
 
 ---
 
-## Contact
-
-**Email:**
-[plusoneshen@gmail.com](mailto:plusoneshen@gmail.com)
-[jshen698@connect.hkust-gz.edu.cn](mailto:jshen698@connect.hkust-gz.edu.cn)
-
-**GitHub:** [Plusone-Shen](https://github.com/Plusone-Shen)
