@@ -12,20 +12,22 @@ redirect_from:
 Bio
 =====
 
-Jiayi Shen is currently an undergraduate student at the USTC School of Management, majoring in finance and minoring in computer science. Her interest lies in:
+Jiayi Shen is currently a Ph.D. student in the Data Science and Analytics Thrust at the Hong Kong University of Science and Technology (Guangzhou), advised by Prof. [Tianyuan Jin](https://tianyuanjin.github.io).
 
-- eValue
+Her research interests include:
 
-- Finance
+* E-values and Sequential Statistical Inference
+* High-dimensional Statistical Inference
+* Online Learning and Adaptive Algorithms
+* Bandits and Reinforcement Learning
+* Large Language Models and Foundation Models
 
-- Natural Language Processing
-
-Currently she is working on Application and Innovation of e-value Method in Economic Research: Multiple Hypothesis Testing and Policy Evaluation, under the guidance of professor [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85).
-
+Before joining HKUST(GZ), she studied Finance at the University of Science and Technology of China (USTC), where she conducted research under the supervision of Prof. [Weiwei Zhuang](https://bs.ustc.edu.cn/chinese/profile.php?id=85). Her undergraduate research focused on improved e-value thresholds under distributional constraints, with applications to false discovery rate control and sequential testing.
 
 <!-- He will soon be a Ph.D. student at CityUHK, supervised by Professor [Jinhang Zuo](https://jhzuo.github.io), starting in Fall 2025. -->
 
 Contact me
 =====
 
-Just feel free to contact me via [plusoneshen@gmail.com](mailto:plusoneshen@gmail.com).
+Feel free to contact me at [plusoneshen@gmail.com](mailto:plusoneshen@gmail.com) or [jshen698@connect.hkust-gz.edu.cn](mailto:jshen698@connect.hkust-gz.edu.cn).
+

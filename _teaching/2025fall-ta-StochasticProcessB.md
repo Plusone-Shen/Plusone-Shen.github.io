@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant of Stochastic Process"
+title: "Teaching Assistant of Stochastic Process B"
 collection: teaching
 type: "undergraduate course"
 permalink: /teaching/2025fall-ta-StochasticProcess

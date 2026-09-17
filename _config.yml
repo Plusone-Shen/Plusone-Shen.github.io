@@ -21,12 +21,12 @@ repository               : "Plusone-Shen/Plusone-Shen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "self-image.png"
+  avatar           : "self-image.jpg"
   name             : "Jiayi Shen"
   pronouns         : # example: "she/her"  
-  bio              : "undergraduate at USTC"
-  location         : "Hefei, Anhui, China"
-  employer         : "UST of China"
+  bio              : "Ph.D. Student, Data Science and Analytics Thrust, HKUST(GZ)"
+  location         : "Guangzhou, Guangdong, China"
+  employer         : "HKUST (Guangzhou)"
   uri              : # URL
   email            : "plusoneshen@gmail.com" 
 
