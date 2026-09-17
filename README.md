@@ -9,10 +9,10 @@ This site uses [Qirun Zeng's complete Jekyll template](https://github.com/qirunz
 - `_data/teaching.yml`: teaching assistant appointments.
 - `files/CV_Shen_Jiayi.pdf`: personal CV.
 - `assets/images/avatar.jpg`: personal photo.
-- `assets/css/main.css`: original template stylesheet.
+- `assets/css/main.css`: template stylesheet, with unused game styles removed.
 - `assets/css/custom.css`: Source Serif 4 and small personal style adjustments.
 
-Home, news and the 404 page share the upstream layout and components. Research and teaching are sections on the homepage; navigation links scroll directly to them. The former standalone URLs redirect to the corresponding homepage sections. The bandit demonstration is retained. No publications, citation metrics, or reviewing roles are displayed without personal records. The original author's Scholar automation is not enabled.
+Home, news and the 404 page share the upstream layout and components. Research and teaching are sections on the homepage; navigation links scroll directly to them. The former standalone URLs redirect to the corresponding homepage sections. No publications, citation metrics, or reviewing roles are displayed without personal records. The original author's Scholar automation is not enabled.
 
 ## Preview
 
